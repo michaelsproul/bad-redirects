@@ -1,8 +1,9 @@
 [package]
-name = "strange-loop"
+name = "bad-redirects"
 version = "0.1.0"
 authors = ["Michael Sproul <micsproul@gmail.com>"]
 
 [dependencies]
 
 iron = "*"
+mount = "*"
