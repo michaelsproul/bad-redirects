@@ -1,5 +1,5 @@
 [root]
-name = "strange-loop"
+name = "bad-redirects"
 version = "0.1.0"
 dependencies = [
  "iron 0.2.4 (registry+https://github.com/rust-lang/crates.io-index)",
